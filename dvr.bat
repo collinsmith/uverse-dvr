@@ -1,1 +1,1 @@
-java -jar build/libs/uverse-dvr-migrator-all-1.0-SNAPSHOT.jar %*
+java -jar uverse-dvr-migrator-all-1.0-SNAPSHOT.jar %*
